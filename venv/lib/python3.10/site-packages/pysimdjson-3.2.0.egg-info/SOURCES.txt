@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pysimdjson.egg-info/PKG-INFO
+pysimdjson.egg-info/SOURCES.txt
+pysimdjson.egg-info/dependency_links.txt
+pysimdjson.egg-info/not-zip-safe
+pysimdjson.egg-info/requires.txt
+pysimdjson.egg-info/top_level.txt
+simdjson/__init__.py
+simdjson/binding.cpp
+simdjson/simdjson.cpp
+simdjson/simdjson.h
